@@ -1,0 +1,101 @@
+ID,Region,InstanceFamily,InstanceType,Price (USD/h),vCPU,Memory,Storage,OS,Network
+1,Asia Pacific (Sydney),Storage optimized,d3.4xlarge,2.504,16,128,12 x 2000 HDD,Linux,Up to 15 Gigabit
+2,Asia Pacific (Sydney),Storage optimized,i3.metal,5.984,72,512,8 x 1900 NVMe SSD,Linux,25 Gigabit
+3,Asia Pacific (Sydney),Compute optimized,c6i.xlarge,0.222,4,8,EBS only,Linux,Up to 12500 Megabit
+4,Asia Pacific (Sydney),Compute optimized,c7g.4xlarge,0.7549,16,32,EBS only,Linux,Up to 15 Gigabit
+5,Asia Pacific (Sydney),Compute optimized,c6a.2xlarge,0.3996,8,16,EBS only,Linux,Up to 12500 Megabit
+6,Asia Pacific (Sydney),Compute optimized,c5d.large,0.126,2,4,1 x 50 NVMe SSD,Linux,Up to 10 Gigabit
+7,Asia Pacific (Sydney),General purpose,a1.2xlarge,0.2664,8,16,EBS only,Linux,Up to 10 Gigabit
+8,Asia Pacific (Sydney),Memory optimized,x2iedn.xlarge,1.20881,4,128,1 x 118 NVMe SSD,Linux,Up to 25 Gigabit
+9,Asia Pacific (Sydney),Compute optimized,c7g.large,0.0944,2,4,EBS only,Linux,Up to 12500 Megabit
+10,Asia Pacific (Sydney),Memory optimized,r6id.12xlarge,4.176,48,384,2 x 1425 SSD,Linux,18750 Megabit
+11,Asia Pacific (Sydney),Memory optimized,r5dn.metal,9.792,96,768,4 x 900 NVMe SSD,Linux,100 Gigabit
+12,Asia Pacific (Sydney),GPU instance,p2.8xlarge,12.336,32,488,EBS only,Linux,10 Gigabit
+13,Asia Pacific (Sydney),Compute optimized,c6a.4xlarge,0.7992,16,32,EBS only,Linux,Up to 12500 Megabit
+14,Asia Pacific (Sydney),Compute optimized,c5d.12xlarge,3.024,48,96,2 x 900 NVMe SSD,Linux,12 Gigabit
+15,Asia Pacific (Sydney),FPGA Instances,f1.4xlarge,3.962,16,244,1 x 940 NVMe SSD,Linux,10 Gigabit
+16,Asia Pacific (Sydney),Compute optimized,c6i.24xlarge,5.328,96,192,EBS only,Linux,37500 Megabit
+17,Asia Pacific (Sydney),Compute optimized,c6id.12xlarge,3.1752,48,96,2 x 1425 SSD,Linux,18750 Megabit
+18,Asia Pacific (Sydney),Compute optimized,c7g.2xlarge,0.3774,8,16,EBS only,Linux,Up to 15 Gigabit
+19,Asia Pacific (Sydney),Compute optimized,c5n.2xlarge,0.564,8,21,EBS only,Linux,Up to 25 Gigabit
+20,Asia Pacific (Sydney),Compute optimized,c4.2xlarge,0.522,8,15,EBS only,Linux,High
+21,Asia Pacific (Sydney),Memory optimized,r6g.16xlarge,3.8656,64,512,EBS only,Linux,25 Gigabit
+22,Asia Pacific (Sydney),Memory optimized,r5ad.12xlarge,3.816,48,384,2 x 900 NVMe SSD,Linux,10 Gigabit
+23,Asia Pacific (Sydney),Memory optimized,r5ad.24xlarge,7.632,96,768,4 x 900 NVMe SSD,Linux,20 Gigabit
+24,Asia Pacific (Sydney),Compute optimized,c6id.metal,8.4672,128,256,4 x 1900 SSD,Linux,50000 Megabit
+25,Asia Pacific (Sydney),Compute optimized,c5.18xlarge,3.996,72,144,EBS only,Linux,25 Gigabit
+26,Asia Pacific (Sydney),Compute optimized,c5d.4xlarge,1.008,16,32,1 x 400 NVMe SSD,Linux,Up to 10 Gigabit
+27,Asia Pacific (Sydney),General purpose,m5ad.8xlarge,2.08,32,128,2 x 600 NVMe SSD,Linux,Up to 10 Gigabit
+28,Asia Pacific (Sydney),GPU instance,p2.xlarge,1.542,4,61,EBS only,Linux,High
+29,Asia Pacific (Sydney),General purpose,m6i.large,0.12,2,8,EBS only,Linux,Up to 12500 Megabit
+30,Asia Pacific (Sydney),GPU instance,g3.8xlarge,3.508,32,244,EBS only,Linux,10 Gigabit
+31,Asia Pacific (Sydney),General purpose,t3.large,0.1056,2,8,EBS only,Linux,Up to 5 Gigabit
+32,Asia Pacific (Sydney),Memory optimized,r6g.medium,0.0604,1,8,EBS only,Linux,Up to 10 Gigabit
+33,Asia Pacific (Sydney),General purpose,m6a.12xlarge,2.592,48,192,EBS only,Linux,18750 Megabit
+34,Asia Pacific (Sydney),GPU instance,g3.16xlarge,7.016,64,488,EBS only,Linux,20 Gigabit
+35,Asia Pacific (Sydney),Memory optimized,x1e.16xlarge,19.344,64,1952,1 x 1920 SSD,Linux,10 Gigabit
+36,Asia Pacific (Sydney),Machine Learning ASIC Instances,inf1.24xlarge,5.902,96,192,EBS only,Linux,100 Gigabit
+37,Asia Pacific (Sydney),Memory optimized,x1e.xlarge,1.209,4,122,1 x 120 SSD,Linux,Up to 10 Gigabit
+38,Asia Pacific (Sydney),Storage optimized,i3en.3xlarge,1.626,12,96,1 x 7500 NVMe SSD,Linux,Up to 25 Gigabit
+39,Asia Pacific (Sydney),Memory optimized,r6g.metal,3.8656,64,512,EBS only,Linux,25 Gigabit
+40,Asia Pacific (Sydney),General purpose,m5zn.large,0.2065,2,8,EBS only,Linux,Up to 25 Gigabit
+41,Asia Pacific (Sydney),Memory optimized,r6i.2xlarge,0.604,8,64,EBS only,Linux,Up to 12500 Megabit
+42,Asia Pacific (Sydney),General purpose,t2.medium,0.0584,2,4,EBS only,Linux,Low to Moderate
+43,Asia Pacific (Sydney),General purpose,m5d.4xlarge,1.136,16,64,2 x 300 NVMe SSD,Linux,Up to 10 Gigabit
+44,Asia Pacific (Sydney),General purpose,m6gd.4xlarge,0.912,16,64,1 x 950 NVMe SSD,Linux,Up to 10 Gigabit
+45,Asia Pacific (Sydney),Memory optimized,r6g.12xlarge,2.8992,48,384,EBS only,Linux,20 Gigabit
+46,Asia Pacific (Sydney),GPU instance,g4dn.2xlarge,0.978,8,32,225 GB NVMe SSD,Linux,Up to 25 Gigabit
+47,Asia Pacific (Sydney),General purpose,m5zn.2xlarge,0.826,8,32,EBS only,Linux,Up to 25 Gigabit
+48,Asia Pacific (Sydney),General purpose,t3.medium,0.0528,2,4,EBS only,Linux,Up to 5 Gigabit
+49,Asia Pacific (Sydney),Compute optimized,c5ad.xlarge,0.226,4,8,1 x 150 NVMe SSD,Linux,Up to 10 Gigabit
+50,Asia Pacific (Sydney),Compute optimized,c6i.8xlarge,1.776,32,64,EBS only,Linux,12500 Megabit
+51,Asia Pacific (Sydney),Memory optimized,r6id.large,0.174,2,16,1 x 118 SSD,Linux,Up to 12500 Megabit
+52,Asia Pacific (Sydney),Memory optimized,r5n.12xlarge,4.344,48,384,EBS only,Linux,50 Gigabit
+53,Asia Pacific (Sydney),Storage optimized,d3.xlarge,0.626,4,32,3 x 2000 HDD,Linux,Up to 15 Gigabit
+54,Asia Pacific (Sydney),GPU instance,g4dn.metal,10.174,96,384,2 x 900 GB NVMe SSD,Linux,100 Gigabit
+55,Asia Pacific (Sydney),Compute optimized,c4.8xlarge,2.085,36,60,EBS only,Linux,10 Gigabit
+56,Asia Pacific (Sydney),Memory optimized,r5dn.16xlarge,6.528,64,512,4 x 600 NVMe SSD,Linux,75 Gigabit
+57,Asia Pacific (Sydney),General purpose,m4.2xlarge,0.5,8,32,EBS only,Linux,High
+58,Asia Pacific (Sydney),Memory optimized,r5dn.2xlarge,0.816,8,64,1 x 300 NVMe SSD,Linux,Up to 25 Gigabit
+59,Asia Pacific (Sydney),Memory optimized,r5d.24xlarge,8.352,96,768,4 x 900 NVMe SSD,Linux,25 Gigabit
+60,Asia Pacific (Sydney),Memory optimized,r5d.metal,8.352,96,768,4 x 900 NVMe SSD,Linux,25 Gigabit
+61,Asia Pacific (Sydney),Memory optimized,r6i.16xlarge,4.832,64,512,EBS only,Linux,25000 Megabit
+62,Asia Pacific (Sydney),Memory optimized,r6i.8xlarge,2.416,32,256,EBS only,Linux,12500 Megabit
+63,Asia Pacific (Sydney),General purpose,m5d.24xlarge,6.816,96,384,4 x 900 NVMe SSD,Linux,25 Gigabit
+64,Asia Pacific (Sydney),Memory optimized,r6gd.medium,0.0695,1,8,1 x 59 NVMe SSD,Linux,Up to 10 Gigabit
+65,Asia Pacific (Sydney),Storage optimized,im4gn.large,0.21804,2,8,1 x 937 SSD,Linux,Up to 25 Gigabit
+66,Asia Pacific (Sydney),Storage optimized,i3en.12xlarge,6.504,48,384,4 x 7500 NVMe SSD,Linux,50 Gigabit
+67,Asia Pacific (Sydney),Compute optimized,c5ad.16xlarge,3.616,64,128,2 x 1200 NVMe SSD,Linux,20 Gigabit
+68,Asia Pacific (Sydney),General purpose,m6i.8xlarge,1.92,32,128,EBS only,Linux,12500 Megabit
+69,Asia Pacific (Sydney),General purpose,m5zn.6xlarge,2.478,24,96,EBS only,Linux,50 Gigabit
+70,Asia Pacific (Sydney),Compute optimized,c6g.metal,2.8416,64,128,EBS only,Linux,25 Gigabit
+71,Asia Pacific (Sydney),Memory optimized,r5a.4xlarge,1.088,16,128,EBS only,Linux,Up to 10 Gigabit
+72,Asia Pacific (Sydney),Memory optimized,r5n.metal,8.688,96,768,EBS only,Linux,100 Gigabit
+73,Asia Pacific (Sydney),Memory optimized,r5b.12xlarge,4.344,48,384,EBS only,Linux,10 Gigabit
+74,Asia Pacific (Sydney),Compute optimized,c6g.12xlarge,2.1312,48,96,EBS only,Linux,20 Gigabit
+75,Asia Pacific (Sydney),Memory optimized,r5n.2xlarge,0.724,8,64,EBS only,Linux,Up to 25 Gigabit
+76,Asia Pacific (Sydney),Memory optimized,r5n.24xlarge,8.688,96,768,EBS only,Linux,100 Gigabit
+77,Asia Pacific (Sydney),Compute optimized,c5d.9xlarge,2.268,36,72,1 x 900 NVMe SSD,Linux,10 Gigabit
+78,Asia Pacific (Sydney),Compute optimized,c5ad.12xlarge,2.712,48,96,2 x 900 NVMe SSD,Linux,12 Gigabit
+79,Asia Pacific (Sydney),Compute optimized,c6a.24xlarge,4.7952,96,192,EBS only,Linux,37500 Megabit
+80,Asia Pacific (Sydney),Storage optimized,i3en.2xlarge,1.084,8,64,2 x 2500 NVMe SSD,Linux,Up to 25 Gigabit
+81,Asia Pacific (Sydney),Compute optimized,c6id.large,0.1323,2,4,1 x 118 SSD,Linux,Up to 12500 Megabit
+82,Asia Pacific (Sydney),Memory optimized,r5a.8xlarge,2.176,32,256,EBS only,Linux,Up to 10 Gigabit
+83,Asia Pacific (Sydney),General purpose,m5d.large,0.142,2,8,1 x 75 NVMe SSD,Linux,Up to 10 Gigabit
+84,Asia Pacific (Sydney),Compute optimized,c6in.24xlarge,7.1064,96,192,EBS only,Linux,150000 Megabit
+85,Asia Pacific (Sydney),Compute optimized,c5n.18xlarge,5.076,72,192,EBS only,Linux,100 Gigabit
+86,Asia Pacific (Sydney),Compute optimized,c5d.metal,6.048,96,192,4 x 900 NVMe SSD,Linux,25 Gigabit
+87,Asia Pacific (Sydney),General purpose,m6i.16xlarge,3.84,64,256,EBS only,Linux,25000 Megabit
+88,Asia Pacific (Sydney),General purpose,t4g.medium,0.0424,2,4,EBS only,Linux,Up to 5 Gigabit
+89,Asia Pacific (Sydney),General purpose,m5ad.large,0.13,2,8,1 x 75 NVMe SSD,Linux,Up to 10 Gigabit
+90,Asia Pacific (Sydney),Storage optimized,d3.2xlarge,1.252,8,64,6 x 2000 HDD,Linux,Up to 15 Gigabit
+91,Asia Pacific (Sydney),General purpose,m6i.xlarge,0.24,4,16,EBS only,Linux,Up to 12500 Megabit
+92,Asia Pacific (Sydney),Storage optimized,i4i.32xlarge,13.1648,128,1024,8 x 3750 SSD,Linux,75000 Megabit
+93,Asia Pacific (Sydney),Memory optimized,r6g.xlarge,0.2416,4,32,EBS only,Linux,Up to 10 Gigabit
+94,Asia Pacific (Sydney),Compute optimized,c6gd.metal,3.232,64,128,2 x 1900 NVMe SSD,Linux,25 Gigabit
+95,Asia Pacific (Sydney),Memory optimized,z1d.xlarge,0.452,4,32,1 x 150 NVMe SSD,Linux,Up to 10 Gigabit
+96,Asia Pacific (Sydney),Compute optimized,c6gd.xlarge,0.202,4,8,1 x 237 NVMe SSD,Linux,Up to 10 Gigabit
+97,Asia Pacific (Sydney),Memory optimized,x2iedn.32xlarge,38.682,128,4096,2 x 1900 NVMe SSD,Linux,100 Gigabit
+98,Asia Pacific (Sydney),Compute optimized,c6i.metal,7.104,128,256,EBS only,Linux,50000 Megabit
+99,Asia Pacific (Sydney),General purpose,m6g.medium,0.048,1,4,EBS only,Linux,Up to 10 Gigabit
+100,Asia Pacific (Sydney),General purpose,m5.2xlarge,0.48,8,32,EBS only,Linux,Up to 10 Gigabit
